@@ -16,8 +16,8 @@ Art der Beziehung
 
 ## Nodelist
 
-**id (Eindeutige Bezeichnung der Kante)** 
-Bei Spielerinnen: Kompletter Nachname + erster Buchstage des Vornamens 
+**id (Eindeutige Bezeichnung der Kante)**  
+Bei Spielerinnen: Kompletter Nachname + erster Buchstage des Vornamens  
 Bei Vereinen: Selbstgewählte Dreibuchstaben-Abkürzung  
 Bei Ländern: Ländercode (drei Buchstaben)  
  
