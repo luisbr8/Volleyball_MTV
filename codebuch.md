@@ -21,7 +21,7 @@ Bei Spielerinnen: Kompletter Nachname + erster Buchstage des Vornamens
 Bei Vereinen: Selbstgewählte Dreibuchstaben-Abkürzung  
 Bei Ländern: Ländercode (drei Buchstaben)  
  
-**name** 
+**name**   
 Voller Name der Spielerinnen/der Vereine/der Länder  
  
 **type** 
