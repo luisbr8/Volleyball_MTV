@@ -3,12 +3,12 @@
 from: 
 id, eindeutige Bezeichnung der Spielerin (kompletter Nachname + erster Buchstabe des Vornamens)
 
-to:
+to: 
 id, eindeutige Bezeichnung des Vereins / des Heimatlandes
 Verein: selbstgewählte Abkürzung (max. 4 Zeichen)
 Land: gängiger Ländercode (3 Buchstaben)
 
-affiliation:
+affiliation: 
 Art der Beziehung
 1 = Ex-Verein
 2 = Heimatland
