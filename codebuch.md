@@ -4,9 +4,9 @@
 id, eindeutige Bezeichnung der Spielerin (kompletter Nachname + erster Buchstabe des Vornamens) 
 
 **to**  
-id, eindeutige Bezeichnung des Vereins / des Heimatlandes 
-Verein: selbstgewählte Abkürzung (max. 4 Zeichen) 
-Land: gängiger Ländercode (3 Buchstaben) 
+id, eindeutige Bezeichnung des Vereins / des Heimatlandes  
+Verein: selbstgewählte Abkürzung (max. 4 Zeichen)  
+Land: gängiger Ländercode (3 Buchstaben)  
 
 **affiliation**  
 Art der Beziehung  
