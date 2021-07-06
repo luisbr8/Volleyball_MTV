@@ -24,8 +24,8 @@ Bei Ländern: Ländercode (drei Buchstaben)
 **name**   
 Voller Name der Spielerinnen/der Vereine/der Länder  
  
-**type** 
-1 = Spielerin  
+**type**  
+1 = Spielerin   
 2 = Verein oder Land  
  
 **birth**  
