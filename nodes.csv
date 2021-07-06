@@ -1,0 +1,76 @@
+id,name,type,birth,age,height,position,country,
+lohuism,Juliet Lohuis,1,1996,3,6,1,NED,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/49-juliet-lohuis
+todorovam,Mira Todorova,1,1994,4,5,1,BUL,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/57-mira-todorova
+timmermanne,Eline Timmermann,1,1998,2,6,1,NED,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/68-eline-timmerman
+kohnh,Hannah Kohn,1,2003,1,4,2,GER,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/65-hannah-kohn
+vandevyveri,Ilka van de Vyver,1,1993,4,3,2,BEL,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/69-ilka-van-de-vyver
+nowiczkaj,Julia Nowicka,1,1998,2,2,2,POL,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/70-julia-nowicka
+lees,Simone Lee,1,1996,3,5,3,USA,https://www.stuttgarts-schoenster-sport.de/team/management/48-werkstudent/48-simone-lee
+palleresm,Maria Segura Palleres,1,1992,4,5,3,ESP,https://www.stuttgarts-schoenster-sport.de/team/management/53-teamfotograf/53-maria-segura-palleres
+jasperh,Hester Jasper,1,2001,1,3,3,NED,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/54-hester-jasper
+dornheimh,Helena Dornheim,1,2004,1,5,3,GER,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/67-helena-dornheim
+riversk,Krystal Rivers,1,1994,4,4,4,USA,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/35-krystal-rivers
+bergerl,Lara Berger,1,2001,1,6,4,GER,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/44-lara-berger
+koskelor,Roosa Koskelo,1,1991,4,1,5,FIN,https://www.stuttgarts-schoenster-sport.de/team/management/33-assistenz/33-roosa-koskelo
+grundtl,Lena Grundt,1,2004,1,1,5,GER,https://www.stuttgarts-schoenster-sport.de/team/spielerinnen/66-lena-grundt
+S65,Set-up '65,2,,,,,NED,
+TTP,Talentteam Papendal,2,,,,,NED,
+ESA,Eurospeed Almelo,2,,,,,NED,
+COA,Coolen Alterno,2,,,,,NED,
+USCM,USC Münster,2,,,,,GER,
+RCC,RC Cannes,2,,,,,FRA,
+VLC,Volero Le Cannet,2,,,,,FRA,
+VZR,Volero Zürich,2,,,,,SUI,
+LCV,Le Cannet Volley Ball,2,,,,,FRA,
+SAP,Sm'Aesch Pfeffingen,2,,,,,SUI,
+VCM,VC Maritza,2,,,,,BUL,
+EST,Eurosped Twente,2,,,,,NED,
+APD,Alterno Apeldoorn,2,,,,,NED,
+LBA,Ladies in Black Aachen,2,,,,,GER,
+ULM,VfB Ulm,2,,,,,GER,
+OLYS,Olympiastützpunkt Stuttgart,2,,,,,GER,
+BSPS,Bundesstützpunkt Stuttgart,2,,,,,GER,
+AXK,Asterix Kieldrecht,2,,,,,BEL,
+IBF,Il Bisonte Firenze,2,,,,,ITA,
+CLJ,Calcit Ljubljana,2,,,,,LIT,
+RRV,Roten Raben Vilsbiburg,2,,,,,GER,
+CST,CSM Targoviste,2,,,,,ROU,
+GBL,Grot Budowlani Lodz,2,,,,,POL,
+PBB,BKS Profi Credit Bielsko-Biala,2,,,,,POL,
+KPB,KS Palac Bydgoszcz,2,,,,,POL,
+SMS,SMS PZPS Szczyrk,2,,,,,POL,
+KAF,Kurobe AquaFairies,2,,,,,JAP,
+BEY,Beyklikdüzü,2,,,,,TUR,
+IVC,Imoco Volley Conegliano,2,,,,,ITA,
+PSU,Penn State University,2,,,,,USA,
+BVM,Banca Valsabbina Millenium Brescia,2,,,,,ITA,
+DSC,Dresdner SC 1898,2,,,,,GER,
+BSB,Bosca San Bernardo Cuneo,2,,,,,ITA,
+STM,Saugella Team Monza,2,,,,,ITA,
+DIT,Delta Informatica Trentino,2,,,,,ITA,
+GHO,Geovilla Hermaea Olbia,2,,,,,ITA,
+CVB,CV Barcelona,2,,,,,ESP,
+VCS,VC Sneek,2,,,,,NED,
+SLT,VfB Suhl Lotto Thüringen,2,,,,,GER,
+MTV2,Allianz MTV Stuttgart II,2,,,,,GER,
+UOA,University of Alabama,2,,,,,USA,
+BZA,Bezier Angels,2,,,,,FRA,
+ZLB,ZOK Luka Bar,2,,,,,MNE,
+FVT,FV Tübinger Modell,2,,,,,GER,
+MTVB,BSP MTV Stuttgart,2,,,,,GER,
+VCO,VCO Berlin,2,,,,,GER,
+OKN,OK Nova KBM Branik,2,,,,,SLO,
+LPV,LP Viesti,2,,,,,FIN,
+LPK,LP Kangsala,2,,,,,FIN,
+HML,Hämeelinnan Lentopallkokerho,2,,,,,FIN,
+KIM,Kimmo,2,,,,,FIN,
+SMP,Someron Pallo,2,,,,,FIN,
+MTVJ,MTV Stuttgart Jugend,2,,,,,GER,
+GER,Deutschland,2,,,,,,
+NED,Niederlande,2,,,,,,
+BUL,Bulgarien,2,,,,,,
+USA,Vereinigte Staaten,2,,,,,,
+BEL,Belgien,2,,,,,,
+FIN,Finnland,2,,,,,,
+ESP,Spanien,2,,,,,,
+POL,Polen,2,,,,,,
