@@ -1,14 +1,14 @@
 CODEBUCH								
 Im Codebuch definieren Sie, wie und nach welchen Kriterien erfasst werden.								
 Achtung: das Codebuch wird immer als eigene Datei in Github gesetzt. Beispiel siehe hier.								
-Wert	Kommentar							
-edgelist	Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).							
+Wert
+edgelist						
 from	definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort							
 to 	definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. 							
 weight	Ausprägung der Kantenstärke (Beziehungsstärke), definiert nach vorgegeben Skalen.							
 relationship	definiert die Art der Beziehung bei multiplexen Netzwerken mit verschiedenen Beziehungsarten							
-time	definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde.							
-nodelist	Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.							
+time	definiert einen Zeitraum, in dem die Beziehung zwischen zwei Knoten stattgefunden hat oder beobachtet wurde.	
+nodelist	Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.	
 id	eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  							
 name	Name oder Bezeichnung des Knotens. 							
 sex	dichotome Ausprägung: male oder female. Einfacher auch numerisch als 1 oder 2 zu kodieren.							
